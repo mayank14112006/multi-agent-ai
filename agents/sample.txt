@@ -1,0 +1,196 @@
+Wikisource is an online wiki-based digital library of free-content textual sources operated by the Wikimedia Foundation. Wikisource is the name of the project as a whole; it is also the name for each instance of that project, one for each language. The project's aim is to host all forms of free text, in many languages, and translations. Originally conceived as an archive to store useful or important historical texts, it has expanded to become a general-content library. The project officially began on November 24, 2003, under the name Project Sourceberg, a play on Project Gutenberg. The name Wikisource was adopted later that year and it received its own domain name.
+
+The project holds works that are either in the public domain or freely licensed: professionally published works or historical source documents, not vanity products. Verification was initially made offline, or by trusting the reliability of other digital libraries. Now works are supported by online scans via the ProofreadPage extension, which ensures the reliability and accuracy of the project's texts.
+
+Some individual Wikisources, each representing a specific language, now only allow works backed up with scans. While the bulk of its collection are texts, Wikisource as a whole hosts other media, from comics to film to audiobooks. Some Wikisources allow user-generated annotations, subject to the specific policies of the Wikisource in question. The project has come under criticism for lack of reliability but it is also cited by organisations such as the National Archives and Records Administration.[3]
+
+As of July 2025, there are Wikisource subdomains active for 79 languages[1] comprising a total of 6,509,980 articles and 2,494 recently active editors.[4]
+
+History
+The original concept for Wikisource was as storage for useful or important historical texts. These texts were intended to support Wikipedia articles, by providing primary evidence and original source texts, and as an archive in its own right. The collection was initially focused on important historical and cultural material, distinguishing it from other digital archives like Project Gutenberg.[2]
+
+Composite photograph showing an iceberg both above and below the waterline.
+The original Wikisource logo
+The project was originally called Project Sourceberg during its planning stages (a play on words for Project Gutenberg).[2]
+
+In 2001, there was a dispute on Wikipedia regarding the addition of primary-source materials, leading to edit wars over their inclusion or deletion. Project Sourceberg was suggested as a solution to this. In describing the proposed project, user The Cunctator said, "It would be to Project Gutenberg what Wikipedia is to Nupedia",[5] soon clarifying the statement with "we don't want to try to duplicate Project Gutenberg's efforts; rather, we want to complement them. Perhaps Project Sourceberg can mainly work as an interface for easily linking from Wikipedia to a Project Gutenberg file, and as an interface for people to easily submit new work to PG."[6] Initial comments were skeptical, with Larry Sanger questioning the need for the project, writing "The hard question, I guess, is why we are reinventing the wheel, when Project Gutenberg already exists? We'd want to complement Project Gutenberg—how, exactly?",[7] and Jimmy Wales adding "like Larry, I'm interested that we think it over to see what we can add to Project Gutenberg. It seems unlikely that primary sources should in general be editable by anyone — I mean, Shakespeare is Shakespeare, unlike our commentary on his work, which is whatever we want it to be."[8]
+
+The project began its activity at ps.wikipedia.org. The contributors understood the "PS" subdomain to mean either "primary sources" or Project Sourceberg.[5] However, this resulted in Project Sourceberg occupying the subdomain of the Pashto Wikipedia (the ISO language code of the Pashto language is "ps").
+
+Project Sourceberg officially launched on November 24, 2003, when it received its own temporary URL, at sources.wikipedia.org, and all texts and discussions hosted on ps.wikipedia.org were moved to the temporary address. A vote on the project's name changed it to Wikisource on December 6, 2003. Despite the change in name, the project did not move to its permanent URL (http://wikisource.org/) until July 23, 2004.[9]
+
+Logo and slogan
+Since Wikisource was initially called "Project Sourceberg", its first logo was a picture of an iceberg.[2] Two votes conducted to choose a successor were inconclusive, and the original logo remained until 2006. Finally, for both legal and technical reasons—because the picture's license was inappropriate for a Wikimedia Foundation logo and because a photo cannot scale properly—a stylized vector iceberg inspired by the original picture was mandated to serve as the project's logo.
+
+The first prominent use of Wikisource's slogan—The Free Library—was at the project's multilingual portal, when it was redesigned based upon the Wikipedia portal on August 27, 2005, (historical version).[10] As in the Wikipedia portal the Wikisource slogan appears around the logo in the project's ten largest languages.
+
+Clicking on the portal's central images (the iceberg logo in the center and the "Wikisource" heading at the top of the page) links to a list of translations for Wikisource and The Free Library in 60 languages.
+
+Tools built
+Screen shot of Norwegian Wikisource. The text can be seen on the left of the screen with the scanned image displayed on the right.
+The ProofreadPage extension in action
+A MediaWiki extension called ProofreadPage was developed for Wikisource by developer ThomasV to improve the vetting of transcriptions by the project. This displays pages of scanned works side by side with the text relating to that page, allowing the text to be proofread and its accuracy later verified independently by any other editor.[11][12][13] Once a book, or other text, has been scanned, the raw images can be modified with image processing software to correct for page rotations and other problems. The retouched images can then be converted into a PDF or DjVu file and uploaded to either Wikisource or Wikimedia Commons.[11]
+
+This system assists editors in ensuring the accuracy of texts on Wikisource. The original page scans of completed works remain available to any user so that errors may be corrected later and readers may check texts against the originals. ProofreadPage also allows greater participation, since access to a physical copy of the original work is not necessary to be able to contribute to the project once images have been uploaded.[citation needed]
+
+Milestones
+
+A student doing proof reading during her project at New Law College (Pune) India
+Within two weeks of the project's official start at sources.wikipedia.org, over 1,000 pages had been created, with approximately 200 of these being designated as actual articles. On January 4, 2004, Wikisource welcomed its 100th registered user. In early July, 2004 the number of articles exceeded 2,400, and more than 500 users had registered.
+
+On April 30, 2005, there were 2667 registered users (including 18 administrators) and almost 19,000 articles. The project passed its 96,000th edit that same day.[citation needed]
+
+On November 27, 2005, the English Wikisource passed 20,000 text-units in its third month of existence, already holding more texts than did the entire project in April (before the move to language subdomains).
+
+On May 10, 2006, the first Wikisource Portal was created.
+
+On February 14, 2008, the English Wikisource passed 100,000 text-units with Chapter LXXIV of Six Months at the White House, a memoir by painter Francis Bicknell Carpenter.[14]
+
+In November, 2011, 250,000 text-units milestone was passed.
+
+Library contents
+A Venn diagram of the inclusion criteria for works to be added to Wikisource. The three overlapping circles are labelled "Sourced", "Published" and "Licensed". The area where they all overlap is shown in green. The areas where just two overlap are shown in yellow (except the Sourced-Published overlap, which remains blank)
+Wikisource inclusion criteria expressed as a Venn diagram. Green indicates the best possible case, where the work satisfies all three primary requirements. Yellow indicates acceptable but not ideal cases.
+Wikisource collects and stores in digital format previously published texts; including novels, non-fiction works, letters, speeches, constitutional and historical documents, laws and a range of other documents. All texts collected are either free of copyright or released under the Creative Commons Attribution/Share-Alike License.[2] Texts in all languages are welcomed, as are translations. In addition to texts, Wikisource hosts material such as comics, films, recordings and spoken-word works.[2] All texts held by Wikisource must have been previously published; the project does not host "vanity press" books or documents produced by its contributors.[2][15][16][17][18]
+
+A scanned source is preferred on many Wikisources and required on some. Most Wikisources will, however, accept works transcribed from offline sources or acquired from other digital libraries.[2] The requirement for prior publication can also be waived in a small number of cases if the work is a source document of notable historical importance. The legal requirement for works to be licensed or free of copyright remains constant.
+
+Annotations and translations – the difference to Wikibooks
+The only original pieces accepted by Wikisource are annotations and translations.[19] Wikisource, and its sister project Wikibooks, has the capacity for annotated editions of texts. On Wikisource, the annotations are supplementary to the original text, which remains the primary objective of the project. By contrast, on Wikibooks the annotations are primary, with the original text as only a reference or supplement, if present at all.[18] Annotated editions are more popular on the German Wikisource.[18] The project also accommodates translations of texts provided by its users. A significant translation on the English Wikisource is the Wiki Bible project, intended to create a new, "laissez-faire translation" of The Bible.[20]
+
+Structure
+Language subdomains
+A separate Hebrew version of Wikisource (he.wikisource.org) was created in August 2004. The need for a language-specific Hebrew website derived from the difficulty of typing and editing Hebrew texts in a left-to-right environment (Hebrew is written right-to-left). In the ensuing months, contributors in other languages including German requested their own wikis, but a December vote on the creation of separate language domains was inconclusive. Finally, a second vote that ended May 12, 2005, supported the adoption of separate language subdomains at Wikisource by a large margin, allowing each language to host its texts on its own wiki.
+
+An initial wave of 14 languages was set up on August 23, 2005.[21] The new languages did not include English, but the code en: was temporarily set to redirect to the main website (wikisource.org). At this point the Wikisource community, through a mass project of manually sorting thousands of pages and categories by language, prepared for a second wave of page imports to local wikis. On September 11, 2005, the wikisource.org wiki was reconfigured to enable the English version, along with 8 other languages that were created early that morning and late the night before.[22] Three more languages were created on March 29, 2006,[23] and then another large wave of 14 language domains was created on June 2, 2006.[24]
+
+Languages without subdomains are locally incubated. As of September 2020, 182 languages are hosted locally.
+
+As of July 2025, there are Wikisource subdomains for 81 languages of which 79 are active and 2 are closed.[1] The active sites have 6,509,980 articles and the closed sites have 13 articles.[4] There are 5,072,917 registered users of which 2,494 are recently active.[4]
+
+Top ten Wikisource language projects by mainspace article count:[4]
+No.	Language	Wiki	Good	Total	Edits	Admins	Users	Active users	Files
+1	Polish	pl	1,218,312	1,257,538	3,868,324	14	39,853	65	127
+2	English	en	1,103,154	4,660,957	15,182,560	20	3,173,352	437	16,627
+3	French	fr	617,775	4,499,619	15,208,912	16	154,944	235	3,819
+4	Russian	ru	616,646	1,116,186	5,574,781	5	127,940	93	32,963
+5	German	de	594,718	648,984	4,586,500	17	87,045	120	6,922
+6	Chinese	zh	479,343	1,154,179	2,546,946	8	114,053	168	230
+7	Ukrainian	uk	331,268	486,763	945,823	6	19,661	83	136
+8	Hebrew	he	251,349	1,659,229	2,946,163	16	42,726	74	554
+9	Italian	it	209,356	832,600	3,543,473	9	76,644	85	686
+10	Spanish	es	85,841	310,117	1,561,604	8	93,104	57	231
+wikisource.or
+During the move to language subdomains, the community requested that the main wikisource.org website remain a functioning wiki, in order to serve three purposes:
+To be a multilingual coordination site for the entire Wikisource project in all languages. In practice, use of the website for multilingual coordination has not been heavy since the conversion to language domains. Nevertheless, there is some policy activity at the Scriptorium, and multilingual updates for news and language milestones at pages such as Wikisource:2007.
+To be a home for texts in languages without their own subdomains, each with its own local main page for self-organization.[25] As a language incubator, the wiki currently provides a home for over 30 languages that do not yet have their own language subdomains. Some of these are very active, and have built libraries with hundreds of texts (such as Volapük).
+To provide direct, ongoing support by a local wiki community for a dynamic multilingual portal at its Main Page, for users who go to http://wikisource.org. The current Main Page portal was created on August 26, 2005, by ThomasV, who based it upon the Wikipedia portal.
+The idea of a project-specific coordination wiki, first realized at Wikisource, also took hold in another Wikimedia project, namely at Wikiversity's Beta Wiki. Like wikisource.org, it serves Wikiversity coordination in all languages, and as a language incubator, but unlike Wikisource, its Main Page does not serve as its multilingual portal.[26]
+Reception
+Personal explanation of Wikisource from a project participant
+Wikipedia co-founder Larry Sanger criticised Wikisource and sister project Wiktionary in 2011, after he left the project, saying that their collaborative nature and technology means that there is no oversight by experts, and alleging that their content is therefore not reliable.[27]
+
+Bart D. Ehrman, a New Testament scholar and professor of religious studies at the University of North Carolina at Chapel Hill, has criticised the English Wikisource's project to create a user-generated translation of the Bible saying "Democratization isn't necessarily good for scholarship."[20] Richard Elliott Friedman, an Old Testament scholar and professor of Jewish studies at the University of Georgia, identified errors in the translation of the Book of Genesis as of 2008.[20]
+
+In 2010, Wikimedia France signed an agreement with the Bibliothèque nationale de France (National Library of France) to add scans from its own Gallica digital library to French Wikisource. Fourteen hundred public domain French texts were added to the Wikisource library as a result via upload to the Wikimedia Commons. The quality of the transcriptions, previously automatically generated by optical character recognition (OCR), was expected to be improved by Wikisource's human proofreaders.[28][29][30]
+
+
+Wikisource has original works on the topic: National Archives and Records Administration Collection
+In 2011, the English Wikisource received many high-quality scans of documents from the US National Archives and Records Administration (NARA) as part of their efforts "to increase the accessibility and visibility of its holdings." Processing and upload to Commons of these documents, along with many images from the NARA collection, was facilitated by a NARA Wikimedian in residence, Dominic McDevitt-Parks. Many of these documents have been transcribed and proofread by the Wikisource community and are featured as links in the National Archives' own online catalog.[31]
+
+
+
+I’m a little late to the party with this post, but I need to get it out of my head. The question of “what is ‘open source AI’, exactly?” has been a hot topic in some circles for a while now. The Open Source Initiative, keepers of the Open Source Definition, have been working on developing a definition for open source AI. The latest draft notably does not require the training data to be available under an open license. I believe this is a mistake.
+
+Open source AI must include open data
+Data is critical to modern computing. I called this out in a 2020 DevConf talk and I can hardly claim to be the first or only person to make this observation. More recently, Tom “spot” Callaway wrote his objections to a definition of “open source AI” that doesn’t include open data. My objections (and I venture to say spot’s as well) have nothing to do with ideological purity. I wrote over three years ago that I don’t care about free/open source software as an end goal. What matters is the human impact.
+
+Even before ChatGPT hit the scene, there were countless examples of AI exacerbating biases and inequities. Part of addressing that issue is providing a better training data set. But if we don’t know what an AI model is trained on, we don’t know what sort of biases it’s reproducing. This is a data problem, not a model weights problem. The most advanced AI in the world is still going to produce biased output if trained on biased sources.
+
+OSI attempts to address this by requiring “data information.” This is insufficient. I’ll again defer to spot to make this case better than I could. OSI raises valid points about how rules governing data can be different than those covering code. Oh well. The solution is to acknowledge that some models won’t meet the requirements instead of watering down the requirements.
+
+No one is owed an “open source AI”
+Part of the motivation behind OSI’s choices here seem to be the creation of a definition that commercially-viable AI models can meet. They say “We need an Open Source AI Definition that can effectively guide users and developers to make the right choice. We need one that doesn’t put developers of Open Source AI at a disadvantage compared to proprietary ones.” Tara Tarakiyee wrote in response “Well, if the price of making Open Source ‘AI’ competitive with proprietary ‘AI’ is to break the openness that is fundamental to the definition, then why are we doing it?”
+
+I agree with Tara. His whole post is well worth a read. But what this particular thread comes down to is this: we don’t owe anyone a commercially-viable definition just because doing otherwise is hard. There’s nothing in the Open Source Definition that says “but you can skip some of these requirements if you can’t figure out how to make money.”
+
+“Can’t” and “won’t” aren’t the same thing
+I’ve seen some people argue that creating an definition that results in zero “open source AI” models is useless. It’s important to distinguish here between “can’t” and “won’t”: they are not the same.
+
+It’s true that a definition that no model could possibly meet is useless. But a definition that no model currently chooses to meet is valuable. AI developers could certainly choose to make their training data available. If they don’t want to, they don’t get to call their model open source. It’s the same as wanting to release software under a license that doesn’t meet some part of the Open Source Definition. As I said in the previous section, no one is owed a definition that meets their business needs.
+
+The argument is silly, anyway. There are at least two models that would meet a more appropriate definition.
+
+Where to go from here?
+I wrote this post because I needed to get the words out of my head and onto “paper”. I have no expectation it will change the direction of OSI’s next draft. They seem pretty committed to their choice at this point. I’m not really sure what is gained by making this compromise. Nothing of worth, I think.
+
+This is a problem we should have been addressing years ago, instead of rushing to catch up once the cat was out of the proverbial bag, Collectively, we seem to have a tendency to skate to where the puck was, not where it will be. This isn’t the first time. At FOSDEM 2021, Bradley Kuhn said something to the effect of “if I would have known proprietary software would be funded by advertising instead of license sales, I would have done a lot of things differently.”
+
+I’m not sure what the next big challenge will be. But you can be sure if I figure it out, I’ll push a lot harder to address it before we get passed by again.
+
+Share this:
+More
+Like this:
+This entry was posted in FLOSS and tagged AI, fedoraplanet, open source, open source AI, OSD by Ben Cotton. Bookmark the permalink.
+5 thoughts on “Open source AI and open data”
+stefano maffulli on June 25, 2024 at 4:46 am said:
+Thanks for sharing your thoughts Ben. We’ll have to agree to disagree since you signal that you don’t care about having an Open Source AI but we do. But you care about open data. OSI does too. I think the issue of biases and creating good datasets should be a separate track. The “Data information” concept can allow us to have *now* a workable definition of Open Source AI with a very high bar, while the open data debate continues (it has existed for over a decade.)
+I’d like to leave a comment for your readers so they can educate themselves and draw their own conclusions.
+1. OSI is only driving a global, multi-stakeholder conversation that span more than two years. OSI is not writing a definition, the board only provided a framework and boundaries to reach an agreement. The framework is that the Definition will have to:
+– be supported by developers, end users and subjects of AI
+– to provide real-life examples of AI systems that comply
+– be ready for use by Oct 24
+2. The training dataset was voted by volunteers much much lower than the data pre-processing code during the “system analysis” phase of the Open Source AI Definition. Details here: https://discuss.opensource.org/t/report-of-working-group-document-review/292
+3. Your statement that “data information” is insufficient is negated by the practice: Developers seem to be perfectly fine to use, study, share and modify AI systems without any data. See what people are doing with Llama model only, one of the most opaque of all. The draft 0.0.8 puts the bar much much higher than practitioners seem to require, where it should be.
+4. You link to an article quoting BLOOM and OLMo as examples of systems that share their datasets. BLOOM’s license is problematic. OLMo uses the same problematic dataset that put Pythia in legal grey area in the US. Does that make OLMo acceptable only until someone sues the Allen AI Institute, like Eleuther AI was sued?
+5. You and others are ignoring what data experts are saying. In short: Distributing large datasets globally legally is a legal minefield that the open data people haven’t solved in 15+ years. Trivially: Do you know when copyright of a movie expires in Italy? and in UK? and in Brasil? Which “public domain” base will you pick for globally safe dataset of multilanguage movie subtitles? The rapporteur of the EU copyright directive explained it well https://discuss.opensource.org/t/explaining-the-concept-of-data-information/401/2.
+6. The underlying current of your thoughts either gives more power to Amazon, Google, Netflix etc to create AI (they already have acquired all the data and will continue to do so, exchanging rights between themselves) or aims to make large data aggregation totally illegal by expanding the reach of copyright law. In both cases, that’s a dangerous argument and largely independent on defining Open Source AI: it’s a parallel track.
+7. You say “no one is owed an Open Source AI” and that’s where we philosophically diverge. The draft preamble of the Open Source AI Definition (that nobody contested) states the opposite: we want the benefits of Open Source in AI (autonomy, transparency, frictionless reuse, and collaborative improvement.)
+8. The “Data information” sets a bar so high that only few AI systems pass it. Coincidentally, they’re the same ones you’ve mentioned: OLMo, BLOOM (if they change license) and Pythia and the ones who make an attempt to release their datasets. That’s because of the requirement of “data pre-processing code”: if that’s shared, the dataset seems to be shared too.
+
+Ben Cotton on June 25, 2024 at 7:59 am said:
+I’m insulted by the degree to which you’re mischaracterizing my position. I’m fine with respectful disagreement, but your comment makes me less likely to engage with this and future efforts, not more.
+
+First of all, I *do* care about having an open source AI, but not as an end goal. I’d rather have no definition for an open source AI than one that falls short of what I think it should be.
+
+I stand by “no one is owed an open source AI”. I also want all of the benefits you argue for, which is why I wrote this post in the first place. But no *developer* is owed an incomplete definition because some parts are hard. They’re welcome to use another term.
+
+stefano maffulli on June 25, 2024 at 8:51 am said:
+@ben, sorry you felt insulted, it’s my intention and I apologize if I offended you.
+
+You say “They’re welcome to use another term.” Except that they’re not: We see the term “open source AI” already used, extremely popular actually. And dangerously misaligned with the values of Open Source that the OSI is expected to maintain. Open Source AI is mentioned in the AI Act, with no definition: There will be one… I let you guess what happens if it doesn’t come from the open source communities.
+
+I’ll stop here: I only wanted to provide some elements for your readers to make up their minds.
+
+Sam Johnston on October 16, 2024 at 2:56 am said:
+> Open Source AI is mentioned in the AI Act, with no definition: There will be one… I let you guess what happens if it doesn’t come from the open source communities.
+
+Last I checked the OSI’s mission was to “educate the public about Open Source software and maintain the Open Source Definition”, not attempt to influence foreign laws.
+
+By making a mockery of the four essential freedoms of free software, but especially users’ freedoms to study and modify Open Source AI by allowing proprietary (like NYT articles which can and have got users sued) and private (like FB/IG social graphs, which are the dictionary definition of closed) datasets, the OSI is acting more like a business league like the Linux Foundation and may be better classed as one.
+
+At least I’m not the only one having my positions mischaracterised, but it’s refreshing being free to respond in a forum that’s not censored like the OSI’s own community.
+
+Maple42 on March 21, 2025 at 9:44 pm said:
+Your post made me wonder: Could open data requirements exist outside the OSI definition, as a parallel ethical benchmark? Maybe the solution isn’t to dilute “open source AI” but to create tiers of accountability. Let purists defend strict standards (data included), while industry adopts looser labels. That way, transparency remains aspirational, not a casualty of compromise. Either way, your call to address problems before they’re crises is spot-on—we’re always reactive when proactive would cost less.
+
+Romans invented the notion of res publica — things not susceptible to private ownership should be open to civic use.  Medieval jurists extended the category to “the air, the seas, the highways.” The first modern copyright act, England’s Statute of Anne of 1710, froze this concept in statute: it granted authors a finite exclusive term (initially 14 years, renewable once) while affirming that the term expired, books would transition into the public domain.
+
+Today, we face an unprecedented expansion of the public domain, a phenomenon that could accelerate innovation if we ensure access to all works and preserve them. Millions of works are set to become available over the coming decade.
+
+Artificial intelligence is a technology that, at its core, enables us to learn fast and deep. The key to unlocking productivity growth from the technology is to invest in learning infrastructures. The public domain may be one of the most undervalued and essential of these infrastructures.
+
+The French Revolution abolished perpetual royal privileges and replaced them with an authorial right that — importantly — “shall lapse … into the public domain at the end of the times fixed by the law” (1793 decree).  Across the Atlantic, the US Constitution empowered Congress to secure limited monopolies “to promote the Progress of Science and useful Arts,” embedding the public‑domain reversion as a constitutional prerequisite. 
+
+Each expansion (28 years in the 1909 U.S. Act, life + 50 in the Berne Convention) tested that balance. The rise of the Internet intensified the debate. Congress’s 1998 Sonny Bono Act lengthened US terms to life + 70, prompting the landmark Eldred v. Ashcroft (2003) challenge, which, though unsuccessful, framed the public domain as a First Amendment value. Simultaneously, movements such as Creative Commons (2001) and Europe’s Open Data directives reconceived public‑domain status as something creators can proactively choose rather than merely await
+There is a challenge here: we often end up talking about open data, which focuses us on the content of the infrastructure, rather than the commons we need to protect. Instead of thinking about what role governments should have in crafting a public domain that is fit for an AI-powered economy, our perspective needs to shift, opening the door to a number of new policy options suggest themselves.
+
+First, governments should invest in making the public domain accessible. They should invite public-private partnerships to build public domain infrastructure across different domains, ranging from education to the arts. Museums and libraries should play a key role. This infrastructure must be built to withstand the public domain explosion that we are about to witness.
+
+Second, mechanisms for growing the public domain should be reviewed and explored. A shared European commission on the public domain needs to find new mechanisms that will allow copyright holders to donate their works to the public domain. Rules around orphaned works and challenges of their shadow status should be tested.
+
+There is a challenge here: we often end up talking about open data, which focuses us on the content of the infrastructure, rather than the commons we need to protect. Instead of thinking about what role governments should have in crafting a public domain that is fit for an AI-powered economy, our perspective needs to shift, opening the door to a number of new policy options suggest themselves.
+
+First, governments should invest in making the public domain accessible. They should invite public-private partnerships to build public domain infrastructure across different domains, ranging from education to the arts. Museums and libraries should play a key role. This infrastructure must be built to withstand the public domain explosion that we are about to witness.
+
+Second, mechanisms for growing the public domain should be reviewed and explored. A shared European commission on the public domain needs to find new mechanisms that will allow copyright holders to donate their works to the public domain. Rules around orphaned works and challenges of their shadow status should be tested.
